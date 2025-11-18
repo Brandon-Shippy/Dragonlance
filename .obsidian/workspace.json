@@ -11,14 +11,10 @@
             "id": "13d6f94fa379ef39",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People/Becklin.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Becklin"
+              "title": "New tab"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/Becklin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Becklin"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/Becklin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Becklin"
+              "title": "Outgoing links"
             }
           },
           {
@@ -168,53 +162,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "13d6f94fa379ef39",
+  "active": "c88a89bdfd13a5ee",
   "lastOpenFiles": [
-    "quartz/build.ts",
-    "quartz/worker.ts",
-    "quartz/static/giscus/light.css",
-    "quartz/static/giscus/dark.css",
-    "quartz/plugins/transformers/roam.ts",
-    "quartz/plugins/transformers/toc.ts",
-    "quartz/plugins/transformers/syntax.ts",
-    "quartz/plugins/transformers/oxhugofm.ts",
-    "quartz/plugins/transformers/ofm.ts",
-    "quartz/plugins/transformers/links.ts",
-    "quartz/plugins/transformers/linebreaks.ts",
-    "quartz/static/og-image.png",
-    "quartz/static/icon.png",
-    "index.md",
-    "Party/Silus Tempus.md",
-    "People/Derret.md",
-    "People/Becklin.md",
-    "People/Ispin Greenshield.md",
-    "Places/Fisher's Market.md",
-    "Places/Isthar Empire.md",
-    "Places/Kalaman.md",
-    "Places/Krynn.md",
-    "Party/Haive.md",
-    "Party/Thalia.md",
-    "Wiki Tabulation/Untitled.md",
-    "Organizations/Iron Clad Regime.md",
-    "Organizations/Knights of Solamnia.md",
-    "Organizations/Mages of High Sorcery.md",
-    "Organizations/Order of the Rose.md",
-    "Animals & Monsters & Races/Kenders.md",
-    "Events/Battle of High Hill.md",
-    "People/Odaiarin.md",
-    "People/Wyhan.md",
-    "People/Baccahrus the Young.md",
-    "People/Yow Ming.md",
-    "People/Ledara.md",
-    "People/Lord Deckter Vogler.md",
-    "People/Kudgel.md",
-    "Pictures/Rich fuckass.png",
-    "Pictures/Mayor Fish Festival.png",
-    "Pictures/King Fisher Festival.png",
-    "Pictures/Derret.png",
-    "Pictures/Bitchass Rich Guy.png",
-    "Pictures/Ispin Funeral.png",
-    "Pictures/Becklin.png",
-    "Pictures/Ispin.png"
+    "public/index-og-image.webp",
+    "public/Wiki-Tabulation/Untitled-og-image.webp",
+    "public/Session-Notes/Session-Template-og-image.webp",
+    "public/Session-Notes/Session-Notes---King-Fisher-Festival-og-image.webp",
+    "public/Session-Notes/Session-1-og-image.webp",
+    "public/Places/Vogler-og-image.webp",
+    "public/Places/Thornwall-Keep-og-image.webp",
+    "public/Places/The-Fishbowl-og-image.webp",
+    "public/Places/The-Barb-og-image.webp",
+    "public/Places/Mighty-Methus-og-image.webp",
+    "public/Places/Krynn-og-image.webp",
+    "public/postscript.js",
+    "public/index.html",
+    "public/prescript.js",
+    "public/index.css",
+    "public/Events/Triple-Eclipse.html",
+    "public/Events/The-Cataclysm.html",
+    "public/Events/The-Ambush.html",
+    "public/Events/Night-of-the-Eye.html",
+    "public/Wiki-Tabulation/index.html",
+    "public/Wiki-Tabulation/Untitled.html",
+    "content/Wiki Tabulation/Untitled.md",
+    "content/Session Notes/Session Template.md",
+    "content/Session Notes/Session Notes - King Fisher Festival.md",
+    "content/Session Notes/Session 1.md",
+    "content/Places/Vogler.md",
+    "content/Places/Thornwall Keep.md",
+    "content/Places/The Fishbowl.md",
+    "content/Places/The Barb.md",
+    "content/Places/Mighty Methus.md",
+    "content/Places/Krynn.md",
+    "content/Places/Kalaman.md",
+    "content/Places/Isthar Empire.md",
+    "content/Places/Fisher's Market.md",
+    "content/Places/Ergoth.md",
+    "content/Places/Brushbook Tavern.md",
+    "content/Places/Brasscrab.md",
+    "content/People/Yow Ming.md",
+    "content/People/Wyhan.md",
+    "content/People/Odaiarin.md",
+    "content/People/Mayor Raven Uthvoughler.md",
+    "content/People/Lord Deckter Vogler.md",
+    "content/People/Ledara.md",
+    "content/People/Kudgel.md",
+    "content/People/Ispin Greenshield.md",
+    "content/People/Derret.md"
   ]
 }
