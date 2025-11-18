@@ -1,1 +1,123 @@
 ![[Continent of Ansalon.png]]
+- Brushbook Tavern, Bard playing a lute
+- Triple Eclipse
+- Chalky grey talisman
+- The barb is a giant spire on the mountain range, know to meet on this night to meet the mages of high sorcery, talisman was given to me to mark
+- Met Talia, given a slab with a counter
+- On the way to Vauglher
+- The barb is a ruin, predating the cacalysm
+	- Night of the eye, night of three moons aligning
+	- Magic coming from the spire, faint light in the entrance
+- Scary torches light our way to the room
+- Tapestries depeciting Krynns three moons
+- Lady in middle of room
+	- Conversing with another participant
+- Portal doors
+- This night magic flares
+- Magic is rare
+- During the Age of Dreams magic was not restricted, and because of that wars sparked; the mages are checks and balances
+- Red and White moon lights up
+- Rovina
+- Opens to another rotunda with elaborate runes carved single pedestal, ornate key on the pedestal
+- I trace the important runes
+- We pass the test
+- Runes were a knock spell, made a scroll of it
+- Given a scroll, black robed mage Wyhan in Kalaman
+- No robe today
+- Eye glow from Thalia
+- Keep nearby vaughler its a fishing town
+- There is an incomplete stone bridge, dates to before the cataclasym
+- On the river there are dozens of small boats on the murky water
+- Guy with a BROKEN WRIST WATCH, hastly put together mismtached fitting suit, Calenur
+- Guy in full fucking armor and fur cape dark souls style. Zagreus
+- Bigger guy with fur armor spiked pauldrons, barb. Vaubin
+- Minotaur!!!! NOT GROOMED DREADS LOUD LEAVES TWIGS. Haive
+![[Vogler.png]]
+- Humans, Kenders, and Hill Dwarves
+- Encampment of Soldiers North
+- Armor guy Greenshield like an Uncle for him
+- King Fisher Festival, Battle of High Hill Clash of Solamnia Ishtar
+- Fanatic empire of Ishtar, Ishtar never was able to conquer Vaughler because of the Knights of Solamnia
+- King Fisher is a bird
+- The people of Vaughler see that as a good luck sign to see that
+- Brasscrab, big circle next to port at the bottom
+- City circle building to the north is the mayors building to the right of it is the fishbowl (great fish pie)
+- Fishers market, straight down the middle
+- U Shaped house is a very rich country house
+- We chose to go to the Fish Market
+- Most fishermen are out getting boats ready, boat inspectors
+- Sign for goodluck at docks with a king fisher
+- Kender in the town, hes an older Kender smoking
+- Armor guy from souther ergof, hotspot for monster
+- I trade a cigarette with the fish puppet lady
+- Minotaur trades a tiger tooth for a fish puppet marionette
+- Guy with mask eat no fish give to friend he too badass for food
+- Fisherman dock inspections
+- Going to funeral now
+- Ergoth is OG humans
+- In funeral person in full plate armor kinght of solamnia she knows the mini mini taur
+- She is glad to met the mini mini taur, ispin spoke of him
+- Everyone at this lit ass funeral bruh
+- Becklin is that armored lady
+- ![[Becklin.png]]
+- Kudgel is also here
+- Kudgel is this big strong smaller dwarf 
+- They all know this damn mini mini taur he must be lit or something
+- Blue skinned elf walks in
+- Two posh really rich people balding older man in a tuffed shirt and sword one a younger man with blonde hair and red dressing sword on his belt
+- Ispin
+- ![[Ispin.png]]
+- Ispin Greenshield wants people to share his legend and stories
+- ![[Ispin Funeral.png]]
+- Barkeep is Yow Ming (?????) she does all the cheese and shit
+- Bitchass guy
+- ![[Bitchass Rich Guy.png]]
+- Baccahrus the Young
+- Reenactment of the battle on high hill
+- Ledara talks to Armor guy
+- Ledara does circus stuff
+- Silvanesti she is
+- Lizard guys killed a Knight of Solamnia but so did our barbarian friend
+- Dragon people
+- Meet Becklin at thornwall keep in the morning building by gate
+- Smoke break with Calendur swag
+- Mini mini taur did not take my coin hes kind of mean but in a weird way
+- I slept in Fancy
+- Derret Becklins student
+- ![[Derret.png]]
+- Haive is from Mighty Methus
+- King Fisher fisher celebrates Lord Deckter Vuaghler years before the cataclysm
+- Militia is being trained
+- Thalia order of the rose crest, odairain gave it to her he was a knight of the rose
+- We are taking Ispins spot in the King Fisher festival
+- Zagreus gets the green shield
+- Thalia secret talk
+- King fisher reenactment is happening
+- Mayor Uthvaaggser
+- ![[King Fisher Festival.png]]
+- Buys a kingfisher keychain of a king fisher swooping down to get a fish
+- Thalia is a face painter
+- Fishing competition Zagreus played
+- ![[Mayor Fish Festival.png]]
+- Mayor name is Mayor Raven Uthvoughler
+- I win the fishing shit and I give KC the hat
+- Face paint me 
+- Calenur pick pocked rich fuckass
+- ![[Rich fuckass.png]]
+- Iron Clad Regime helping with the reenactment
+- Couldren something something from Iron Clad Regime playing role of invading empire
+- The Mayor says "Happy coincidence they are here"
+- Reenactment starts
+- We are on the hill with the militia of the town, the Iron Clad Regime at bottom of hill
+- We kill all the fools
+- Why tf we were attacked holmes - that raven mayor lady probably
+- Even the company person of the Iron Clad didnt know ts was finna happen
+- Most of Vaugler Militia is dead
+
+
+# Wants
+- Find our Calenurs watch and get him to stop stealing
+- Protect Thalia, he sees a lot of himself in her
+- Befriend Haive and Zagreus and KC
+- Zagreus goes insane in combat it was lowkey freaky
+- Calendurs head snapped off with crystals and it broke open and hes passed out now

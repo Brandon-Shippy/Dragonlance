@@ -5,16 +5,13 @@ Divination Wizard | Human | Clocksmith | The Time Keeper
 # Backstory
 
 Hails from a clocksmith family, grew up learning how to build clocks but without him knowing the clock blueprints he learned from were secretly actually magic circles, and so he innately understands how magic works purely through clockwork patterns and gears. Growing up his family always made him study the different gear patterns and clock making techniques, these techniques were heavily protected by the family and kept inside tome-esque books. At around age 20 his parents had disappeared, but left him the keys to their clock shop and a pocketwatch that his father always carried around. Though, inside the lid of the pocketwatch there is a key for which he does not know where it leads. 
-
   
 
 Then about 20 years later he had a deep-dream, one of which was him falling through a world of patterns that seemed oh so familiar; they were the exact same patterns that he has dedicated his life to, that of clockwork and gears. It was after this dream where his life felt shaken, he picked up smoking to help handle the constant state of anxiety he was in. Ever so rarely he began to be able to predict milliseconds into the future, it was so near that it came of no use but it was always so jarring; almost like seeing the world from a third person perspective. 
 
-  
 
 It has been about 10 years since then, and it was at this point where he dug back up all of his family's tomes of clock smithing and now started to see these symbols in a completely different light. They were actually magic circles! This whole time they were magic circles, it was at this point he began to secretly practice his magical prowess and studied these tomes beyond just building clocks. 
 
-  
 
 Recently, he was approached by the Mage Society because he started to get a little too open with his magical prowess and is now required to take a test. He will pass and become a white robe.
 
@@ -306,3 +303,308 @@ Last Morning: Made his favorite breakfast, hugged him too long with red-rimmed e
 - "Three days. Give it three days." (with no explanation)
     
 - "The pattern's shifting. Can you feel it?" (to himself, but audible)
+# Silus's Clockwork Spell Flavoring
+
+## **Cantrips**
+
+**Fire Bolt** - _The Striker's Spark_
+
+- Pocketwatch swings like a pendulum, a gear ignites and launches forward trailing flame
+- The gear spins rapidly, friction creating the fire as it flies
+- Sounds like a clock spring releasing
+
+**Mage Hand** - _The Phantom Mechanism_
+
+- Translucent clockwork hand assembles itself from spinning gears and springs
+- Ticks audibly when it moves, like a mechanical automaton
+- Fingers click and whir as they grasp objects
+
+**Message** - _The Synchronized Chime_
+
+- Pocketwatch chimes softly, the sound travels on invisible gears to the target's ear
+- Like two clocks striking in perfect synchronization across distance
+- Target hears a faint ticking before the words arrive
+
+---
+
+## **1st Level Spells**
+
+**Alarm** - _The Sentinel's Tick_
+
+- Creates an invisible web of interlocking gear patterns around the area
+- When triggered, sounds like a clock alarm bell ringing in Silas's mind
+- He can visualize which "gear" was disturbed, showing him where the breach occurred
+
+**Chromatic Orb** - _The Prismatic Escapement_
+
+- A crystalline gear forms, each tooth a different color
+- Spins rapidly, building energy until the chosen color dominates
+- Releases as the gear shatters and reforms into elemental energy
+- Different damage types = different gear rotation patterns (clockwise for fire, counter-clockwise for cold, etc.)
+
+**Comprehend Languages** - _The Universal Cogwork_
+
+- Tiny gears appear around his ears and eyes, translating in real-time
+- Each language has a different "gear signature" that clicks into place
+- He hears the original words but understands them through the mechanism
+- The gears adjust and recalibrate as different languages are spoken
+
+**Detect Magic** - _The Pattern Reader_ ⚠️ **CAREFUL WITH THIS ONE**
+
+- Gears overlay his vision like clockwork spectacles
+- Magical auras appear as colored gear patterns turning at different speeds
+- **RISKY**: This is where he might slip—he sees magic as _literal clockwork patterns_, which isn't how normal wizards perceive it
+- Should describe it generically: "I see the typical divination shimmer" while internally seeing intricate gear-work
+
+**Grease** - _The Overflow Valve_
+
+- Gears materialize and spin so fast they leak oil/grease
+- The mechanism "breaks down" deliberately, spilling lubricant everywhere
+- Gears vanish, grease remains
+
+**Identify** - _The Mechanism's Truth_
+
+- Creates a complex analysis engine of interlocking gears around the object
+- Gears probe, measure, and decode the item's properties
+- Takes the full hour (ritual) as the mechanism slowly "reads" the enchantments
+- Final gear clicks into place, and he _knows_ what it does
+- **Cover Story**: "Just analyzing the enchantment patterns through mechanical theorem"
+
+**Mage Armor** - _The Defensive Mainspring_
+
+- Invisible gears rotate around his body in protective layers
+- Creates a "buffer mechanism" between him and attacks
+- He can feel them ticking against his skin
+- When hit, sounds like gears grinding/absorbing impact
+
+**Shield** - _The Emergency Brake_
+
+- Instant reaction: massive gear materializes and interlocks with incoming attack
+- Sounds like a pocket watch snapping shut
+- The gear halts momentum, then dissolves
+- His fastest spell—pure reflex
+
+**Sleep** - _The Lullaby Mechanism_
+
+- Musical box gears appear, playing a hypnotic ticking rhythm
+- Targets see/hear a soothing pattern of rotating gears
+- Their perception "winds down" like a clock stopping
+- Gears fade as they fall unconscious
+
+---
+
+## **2nd Level Spells**
+
+**Augury** - _The Pendulum's Prophecy_ ⚠️ **EXTREMELY DANGEROUS**
+
+- His most risky spell—this is TRUE divination magic
+- The pocketwatch opens, and he uses special divination "components" (worth 25gp)
+- Watch swings as a pendulum over a spread of tiny gears representing possible futures
+- The gears align to show: favorable (smooth meshing), unfavorable (grinding/jamming), mixed (stuttering), or nothing (gears don't move)
+- **THE PROBLEM**: He's TOO good at this. Has to deliberately misread it sometimes or claim uncertainty
+- **Cover**: "The mechanism is temperamental. Even with the formula, it's only 75% accurate." (It's not. He's more accurate than he admits)
+- Takes 1 minute of intense concentration—good opportunity for a smoke break cover
+
+**Enhance Ability** - _The Optimized Mechanism_
+
+- Gears appear around the target's body, whirring at key points
+- Different abilities = different gear placements:
+    - **Bull's Strength**: Gears around muscles and joints - strength
+    - **Cat's Grace**: Gears around feet and hands, increasing precision - dex
+    - **Eagle's Splendor**: Gears create a subtle "halo" effect, polishing presence - int
+    - **Fox's Cunning**: Gears behind the eyes, accelerating thought - charisma
+    - **Owl's Wisdom**: Gears around the head, enhancing perception - wisdom
+- The gears spin constantly for the duration, making faint ticking sounds
+- Target feels slightly mechanical but more capable
+
+**Phantasmal Force** - _The False Mechanism_
+
+- Creates illusory gears and machinery in the target's mind
+- The "mechanism" is fake, but their brain treats it as real
+- Could be: a clockwork trap closing around them, gears grinding toward them, a ticking bomb
+- The beauty: it's their own mind filling in details through the gear-framework he provides
+- Sounds of ticking and grinding only the target can hear
+- **Silas's favorite part**: It's elegant—a few gears that make the mind do all the work
+
+---
+
+## **PORTENT - Divination Wizard Feature** ⚠️ **THE BIGGEST SECRET**
+
+### **What It Is**
+
+- Each morning after a long rest, Silas rolls 2d20 and records the results
+- These represent glimpses of possible futures—moments he's _seen_ before they happen
+- He can replace any attack roll, saving throw, or ability check (his or another creature's) with one of these rolls
+- This is LITERAL future sight—the core of what he's hiding
+
+### **The Experience**
+
+**Dawn Ritual** - _The Morning Visions_
+
+- He wakes before dawn, always at the same time (internal clock)
+- Sits with his pocketwatch open, smoking his first cigarette
+- The visions come unbidden: flashes of moments that _might_ happen today
+- Sees them through that third-person perspective he mentioned—watching himself and others from outside
+- The pocketwatch ticks in rhythm with the visions
+- Records the "weight" of these moments (the d20 results) in a small private journal
+- Uses coded notation: gear symbols instead of numbers (a 20 is a perfect gear, a 1 is a broken tooth)
+
+**During the Day** - _The Slip Risk_
+
+- When a portent moment arrives, he _recognizes_ it—déjà vu but certain
+- Has a split-second to decide: let it play out naturally or intervene
+- Physical tell: his hand goes to his pocketwatch, feels the key inside growing warm
+- Time seems to slow slightly (only for him) as gears overlay his vision
+- After using it, he needs to cover immediately
+
+**Cover Stories for Using Portent:**
+
+- **For good rolls (helping allies)**: "I had a feeling about that! Trust your instincts!"
+- **For bad rolls (on enemies)**: "Something seemed off about their stance—I knew it wouldn't connect."
+- **For his own rolls**: "Years of pattern recognition. You learn to read situations."
+- **When caught off-guard**: "Call it a clockmaker's intuition. Timing is everything."
+
+**What He NEVER Says:**
+
+- "I saw this coming" (too literal)
+- "I knew this would happen" (too certain)
+- Any mention of visions, futures, or foreknowledge
+- Anything that suggests he CHOSE the outcome rather than just "read the situation well"
+
+### **Roleplaying Portent**
+
+**When He Sees Low Rolls (1-8)**
+
+- These are bad omens. He chain-smokes that morning.
+- Considers calling off plans for the day (but can't always)
+- Saves these to force on enemies at critical moments
+- Or "wastes" them on his own meaningless checks to get rid of the bad omen
+- Mutters: "Going to be one of those days..."
+
+**When He Sees High Rolls (15-20)**
+
+- Visible relief. Actually smiles at breakfast.
+- More generous with advice and help
+- Saves these for crucial moments or to help allies
+- The weight of foreknowledge feels less burdensome
+- Still cautious about using them too obviously
+
+**When He Sees Mixed Rolls**
+
+- Most common. Middle-of-the-road results.
+- Strategic thinking: which will matter most today?
+- Goes through possibilities in his head during "smoke breaks"
+- Treats them like precious resources in a tactical game
+
+**The Emotional Burden**
+
+- Every morning he sees fragments of the day ahead
+- Sometimes sees someone failing/getting hurt and has to choose whether to "waste" a portent
+- The isolation of knowing things others don't
+- Guilt when he chooses not to intervene (saving portents for "more important" moments)
+- Fear that someone will notice he's never truly surprised by anything
+
+### **Mechanical Reminders**
+
+- Can use portent rolls AFTER seeing the d20 roll but BEFORE knowing if it succeeds/fails
+- This means he genuinely sees the moment unfolding and can "correct" it
+- Works on any creature he can see within range
+- Once used, that portent is gone for the day
+- Gets them back after a long rest (more visions at dawn)
+
+---
+
+## **Ritual Spells - Special Notes**
+
+**Detect Magic (Ritual)** - When he has 10 minutes:
+
+- He can actually pull out tools and "build" a small clockwork device
+- Cranks it, peers through its lens/mechanism
+- Gives him plausible cover for why his detection is so precise
+- "Just a little detection device I crafted. Clockwork theorem, you understand."
+
+**Identify (Ritual)** - The safer version:
+
+- Pulls out actual clockwork tools and "analyzes" the item physically
+- Can claim he's using family techniques to read enchantment resonance
+- The hour gives him time to really understand it AND create a believable cover story
+
+**Comprehend Languages (Ritual)** - When he has time:
+
+- Can set up a more elaborate "translation mechanism"
+- Makes it look more like a learned technique than innate magic
+
+**Augury (Ritual)** - Already takes 1 minute, so:
+
+- He can make a whole production of it—laying out gears, checking mechanisms
+- The more theatrical he makes it, the less suspicious his accuracy seems
+- "The calculations are complex. Let me consult the theorem..."
+
+---
+
+## **Spell Selection Strategy**
+
+### **Safe Spells** (Low Suspicion)
+
+- Fire Bolt, Mage Hand, Message, Grease, Mage Armor, Shield, Sleep
+- Chromatic Orb, Enhance Ability, Phantasmal Force
+- **Why**: Direct effects, obvious mechanisms, nothing predictive
+
+### **Moderate Risk** (Be Careful)
+
+- Alarm, Comprehend Languages, Identify
+- **Why**: Could be explained by clockwork techniques, but show unusual insight
+
+### **High Risk** (Use Sparingly/Carefully)
+
+- Detect Magic, Augury, **PORTENT**
+- **Why**: Show him perceiving things others don't
+- **Strategy**: Downplay accuracy, claim uncertainty, use rituals for cover
+
+---
+
+## **Audio Signatures**
+
+- **Fire Bolt** = Whirring wind-up then TING
+- **Shield** = Sharp SNAP (pocket watch closing)
+- **Sleep** = Music box melody
+- **Alarm** = Sustained low ticking
+- **Augury** = Deep, resonant pendulum swing with layered ticking
+- **Enhance Ability** = Smooth, fast gear spinning
+- **Phantasmal Force** = Discordant, unsettling gear grinding
+- **Comprehend Languages** = Multiple ticking rhythms overlapping
+- **Identify** = Slow, methodical clicking
+- **Portent Moment** = Only Silas hears: a single clear chime, like a clock striking the hour
+
+---
+
+## **Daily Routine with Divination Powers**
+
+**Dawn (Portent Ritual)**
+
+1. Wakes before sunrise, always precise time
+2. Opens pocketwatch, lights first cigarette
+3. Visions come—records in coded journal
+4. Chain-smokes if the omens are bad
+5. Plans his day around what he's seen
+
+**Throughout the Day**
+
+- Constant low-level anxiety about hiding reactions
+- Hand frequently touches pocketwatch (checking, grounding himself)
+- "Smoke breaks" = processing visions and planning interventions
+- Hyperaware of moments that match his morning visions
+
+**Evening**
+
+- Reviews what came true vs. what he changed
+- Updates his coded journal
+- Struggles to sleep knowing tomorrow brings more visions
+- The isolation of secret knowledge weighs heavily
+
+**The Curse and Gift**
+
+- He can help people avoid disaster
+- But he can never fully explain how he knows
+- Every day starts with foreknowledge he must hide
+- The loneliness of seeing futures no one else can see
