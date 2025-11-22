@@ -1,9 +1,13 @@
 Appendix for Session Notes
 [[Session Template]]
 [[Session 1]]
+[[Session 2]]
 
 Appendix for Summaries
 [[Session Notes - King Fisher Festival]]
+[[Session Notes - The Red Dragon Army]]
+
+---
 
 ## Animals & Monsters
 
@@ -18,6 +22,8 @@ Appendix for Summaries
 - [[Night of the Eye]]
 - [[King Fisher Festival]]
 - [[The Ambush]]
+- [[Red Dragon Army Ultimatum]]
+- [[Evacuation of Vogler]]
 
 ---
 
@@ -33,6 +39,7 @@ Appendix for Summaries
 
 - [[Green Shield]]
 - [[Order of the Rose]] (crest)
+- [[Becklin's Mysterious Box]]
 
 ---
 
@@ -43,12 +50,13 @@ Appendix for Summaries
 - [[Order of the Rose]]
 - [[Iron Clad Regime]]
 - [[Isthar Empire]]
+- [[Red Dragon Army]]
 
 ---
 
 ## Party
 
-- [[Me]]
+- [[Silus]]
 - [[Thalia]]
 - [[Calendur]]
 - [[Zagreus]]
@@ -59,18 +67,37 @@ Appendix for Summaries
 
 ## People
 
-- [[Wyhan]]
-- [[Becklin]]
-- [[Derret]]
-- [[Kudgel]]
-- [[Ledara]]
-- [[Ispin Greenshield]]
-- [[Baccahrus the Young]]
-- [[Mayor Raven Uthvoughler]]
-- [[Yow Ming]]
-- [[Couldren]]
-- [[Odaiarin]]
-- [[Lord Deckter Vogler]]
+### Allies & Contacts
+
+- [[Wyhan]] - Black robed mage in [[Kalaman]]
+- [[Becklin]] - Knight of Solamnia (staying behind)
+- [[Derret]] - [[Becklin]]'s student
+- [[Kudgel]] - Dwarf leader of [[Iron Clad Regime]] (staying behind)
+- [[Jaev]] - [[Kudgel]]'s lieutenant
+- [[Ledara]] - Silvanesti circus performer
+- [[Yow Ming]] - Barkeep and cook
+- [[Couldren]] - [[Iron Clad Regime]] member
+
+### Suspicious/Enemies
+
+- [[Mayor Raven Uthvoughler]] - Mayor of [[Vogler]] (highly suspicious)
+- [[Grigonis]] - Ogre traitor (deceased)
+- [[Belephaion]] - "The Voice of [[Takhisis]]"
+- Mysterious figure in black and red armor (unknown)
+
+### Historical Figures
+
+- [[Ispin Greenshield]] - Legendary hero (deceased)
+- [[Odaiarin]] - Knight of the Rose
+- [[Lord Deckter Vogler]] - Historical founder
+
+### Nobles
+
+- [[Baccahrus the Young]] - Rich pompous noble
+
+### Deities
+
+- [[Takhisis]] - Queen of Dragons, greatest evil god
 
 ### Races
 
@@ -93,3 +120,4 @@ Appendix for Summaries
 - [[Ergoth]]
 - [[Mighty Methus]]
 - [[Krynn]]
+- [[West Forest]]

@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/index.md",
+                "file": "content/Party/Silus Tempus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for Silus Tempus"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/index.md",
+                "file": "content/Party/Silus Tempus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links from Silus Tempus"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/index.md",
+                "file": "content/Party/Silus Tempus.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Silus Tempus"
             }
           }
         ]
@@ -160,6 +160,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -170,13 +171,31 @@
   },
   "active": "13d6f94fa379ef39",
   "lastOpenFiles": [
-    "README.md",
-    "content/People/Ispin Greenshield.md",
+    "content/Events/Evacuation of Vogler.md",
     "content/index.md",
+    "content/Events/Red Dragon Army Ultimatum.md",
+    "content/People/Takhisis.md",
+    "content/Organizations/Iron Clad Regime.md",
+    "content/Session Notes/Session Notes - The Red Dragon Army.md",
+    "content/Places/Brasscrab.md",
+    "content/Places/Vogler.md",
+    "content/Places/Kalaman.md",
+    "content/Organizations/Red Dragon Army.md",
+    "content/People/Belephaion.md",
+    "content/Places/West Forest.md",
+    "content/People/Mayor Raven Uthvoughler.md",
+    "content/People/Jaev.md",
+    "content/People/Grigonis.md",
+    "content/People/Derret.md",
     "content/People/Becklin.md",
+    "content/People/Kudgel.md",
+    "content/Session Notes/Session 2.md",
     "content/Session Notes/Session 1.md",
     "content/Session Notes/Session Notes - King Fisher Festival.md",
     "content/Session Notes/Session Template.md",
+    "content/Party/Silus Tempus.md",
+    "README.md",
+    "content/People/Ispin Greenshield.md",
     "People/Becklin.md",
     "public/tags 2",
     "public/static 2",
@@ -197,24 +216,6 @@
     "public/Events/Triple-Eclipse.html",
     "public/Events/The-Cataclysm.html",
     "public/Events/The-Ambush.html",
-    "public/Events/Night-of-the-Eye.html",
-    "content/Wiki Tabulation/Untitled.md",
-    "content/Places/Vogler.md",
-    "content/Places/Thornwall Keep.md",
-    "content/Places/The Fishbowl.md",
-    "content/Places/The Barb.md",
-    "content/Places/Mighty Methus.md",
-    "content/Places/Krynn.md",
-    "content/Places/Kalaman.md",
-    "content/Places/Isthar Empire.md",
-    "content/Places/Fisher's Market.md",
-    "content/Places/Ergoth.md",
-    "content/Places/Brushbook Tavern.md",
-    "content/Places/Brasscrab.md",
-    "content/People/Yow Ming.md",
-    "content/People/Wyhan.md",
-    "content/People/Odaiarin.md",
-    "content/People/Mayor Raven Uthvoughler.md",
-    "content/People/Lord Deckter Vogler.md"
+    "public/Events/Night-of-the-Eye.html"
   ]
 }

@@ -1,0 +1,41 @@
+- Mayor Raven thanks us for being here and helping prevent the ambush on the town
+- Silus (me) Cleaned off Thalias blade for her, it says The Oath on it
+- We captured a suriving Iron Clad Regime and kudgel has her under control
+- Interrogating the survivor in the Brass Crab, Becklin is
+- We go in to handle the interrogation
+- Jaev in the outer camp with the other 50 who did not take part in the reenactment
+- Grigonis Ogre with Iron Clad Regime is the one that we killed
+- The Iron Clad Regime that was in the outer camp were maybe not involved in this
+- Haive and I double team this interrogation
+- The guy said that grigonis planned to kill kudgel and take control of the regime
+- girgonis went into the west forest and came out with a bunch of gold and hired a bunch of mercenies and planned to raid vogler after
+- The man who gave grigonis his money wore black and red armor with a hood
+- I left the room to go to Thalia because she had walked in and saw the interrogation scene
+- I talk with her and we talk and she believes that the man does not deserve to die, I also learn that Thalia cannot control her powers
+- Hearing that Silus rushes back to the room to try and stop the killing
+- Haive holds off on killing the prisoner because he could not fight back, Zagreus turns away because he realized the prisoner was scared and this likely wasnt done by his own volition 
+- Gathering the group to discuss whether we are together for the foreseeable future
+- We join together on Haives condition that everyone carries their own weight
+- I tell the party to not go overboard
+- Kugel tells us to go visit the west forest
+- We are going to head out 5am in the morning to investigate the forest
+- We wake up at 5am, I give everyone breakfast
+- Silus is pale and Haive notices and urges him to eat up some
+- On the way to the forest we find foot prints that are older than a day old, they are boots and reptilian boots -> patrol like
+- The forest opens up to a shallow valley that we can see from our ledge
+- In this valley we see tons of fires with hundreds of camps, thousands of soldiers who are controlling this shallow valley it is a strong army
+- We go back and warn Becklin of the army
+- Jaev, Kudgels Lieutenant also saw the same camp on their own scout
+- A messenger in full scale armor is to the North that is coming we do not know what
+- She brings out a parchment
+- It says "People of Vogler, by the orders of Belephaion, The Voice of Tokisis You will quarter the soldiers of the invincible red dragon army tonight, refuse and die"
+	- Tokisis is one of the Gods of Krynn, the greatest of all evil Gods also known as the Queen of Dragons. The messenger has a spiral symbol insignia.
+- We plan to try and evacuate the village through the southern river to move east to Kalaman, so we go through the whole city to try and evacuate everyone
+- Becklin has a large wooden box in his keep, fetch it and give it to Derret
+- The river leads to the backside of the cliffs where the scouts are
+- I tell the party to go to the South and clean out the cliffside
+- I then go alone to fetch the box
+- The box is heavy its about half my size, I can barely carry it
+- There is clanking metal inside
+- Kugel and Becklin are going to stay behind and we cannot evacuate the whole time
+- We are going to evacuate with the villagers to help them evacuate
