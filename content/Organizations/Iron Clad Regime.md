@@ -5,9 +5,11 @@
 - Military or mercenary company
 - Split into factions during [[The Ambush]]
 - **Loyal Faction** (led by [[Kudgel]]):
-    - 50 members in outer camp
+    - 50 members in outer camp during [[The Ambush]]
     - Did NOT participate in [[The Ambush]]
-    - [[Jaev]] is [[Kudgel]]'s lieutenant
+    - **[[Jaev]] is [[Kudgel]]'s lieutenant**
+    - [[Jaev]] survived and evacuated
+    - [[Kudgel]] stayed behind and likely died
 - **Traitor Faction** (led by [[Grigonis]]):
     - Participated in [[The Ambush]]
     - Hired mercenaries with gold from [[West Forest]]
@@ -17,8 +19,8 @@
 
 ### Known Members
 
-- [[Kudgel]] (Leader of loyal faction)
-- [[Jaev]] (Lieutenant to [[Kudgel]])
+- [[Kudgel]] (Leader of loyal faction, presumed dead)
+- [[Jaev]] (Lieutenant to [[Kudgel]], survived)
 - [[Grigonis]] (Traitor leader, deceased)
 - [[Couldren]] (Member, unaware of real attack)
 - Unnamed prisoner (interrogated, spared)
@@ -31,11 +33,14 @@
 
 ### Current Status
 
-- Loyal faction confirmed trustworthy
+- Loyal faction leadership uncertain
+- [[Kudgel]] likely dead
+- **[[Jaev]] may be new leader** of loyal faction
 - Traitor faction eliminated
-- Some members likely staying with [[Kudgel]] to defend [[Vogler]]
+- Some members likely died defending [[Vogler]] with [[Kudgel]]
 
 ### Session Appearances
 
 - [[Session Notes - King Fisher Festival]]
 - [[Session Notes - The Red Dragon Army]]
+- [[Session Notes - Escape from Vogler]]

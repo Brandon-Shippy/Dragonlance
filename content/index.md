@@ -2,10 +2,12 @@ Appendix for Session Notes
 [[Session Template]]
 [[Session 1]]
 [[Session 2]]
+[[Session 3]]
 
 Appendix for Summaries
 [[Session Notes - King Fisher Festival]]
 [[Session Notes - The Red Dragon Army]]
+[[Session Notes - Escape from Vogler]]
 
 ---
 

@@ -1,4 +1,4 @@
-**Type:** NPC **Race:** Unknown (likely Human) **Class:** Knight **Affiliation:** [[Knights of Solamnia]]
+**Type:** NPC **Race:** Unknown (likely Human) **Class:** Knight **Affiliation:** [[Knights of Solamnia]] **Status:** Unknown (likely deceased)
 
 ### What We Know
 
@@ -10,41 +10,41 @@
 - Attended [[Ispin Greenshield]]'s funeral
 - Has a student: [[Derret]]
 - Led the interrogation at [[Brasscrab]]
-- Possesses a mysterious large wooden box at [[Thornwall Keep]]
-    - Half [[Silus]]'s size
-    - Very heavy
-    - Contains clanking metal
-    - Asked party to give it to [[Derret]]
-- **Staying behind in [[Vogler]]** - cannot evacuate in time
-- Likely will sacrifice herself to buy time for evacuation
+- Possessed mysterious large wooden box containing [[Order of the Sword]] armor for [[Derret]]
+- **Stayed behind in [[Vogler]]** to hold the line
+- **Went to front of battlefield with [[Kudgel]]**
+- Final act: ensuring [[Derret]] received knighthood armor
 
 ### Relationships
 
-- **[[Haive]]**: Knows him, respects him, [[Ispin Greenshield|Ispin]] spoke of him
+- **[[Haive]]**: Knows and respects him, [[Ispin Greenshield|Ispin]] spoke of him to her
 - **[[Zagreus]]**: Uncle-like figure to him
-- **[[Derret]]**: Her student (entrusting box to him)
+- **[[Derret]]**: Her student, gave him knighthood
 - **[[Ispin Greenshield]]**: Fellow knight, attended his funeral
-- **[[Kudgel]]**: Allied with, both staying behind
+- **[[Kudgel]]**: Allied with, died alongside him (likely) holding the line
 
-### Location
+### Possessions (Former)
 
-- [[Thornwall Keep]], [[Vogler]]
+- Large wooden box with [[Order of the Sword]] armor (now belongs to [[Derret]])
 
-### Possessions
+### Final Actions
 
-- Large wooden box with metal contents (being passed to [[Derret]])
+- Entrusted [[Derret]]'s knighthood armor to party
+- Held the line at [[Vogler]] with [[Kudgel]]
+- Sacrificed herself to buy time for evacuation
 
-### Current Status
+### Legacy
 
-- Staying behind to defend [[Vogler]]
-- Expected casualty in the coming battle
+- [[Derret]] is now a knight because of her
+- Saved most of [[Vogler]]'s population
+- Died honorably defending the innocent
 
-### Mysteries
+### Status
 
-- What's in the box?
-- Will she survive?
+- **Presumed dead** - stayed to hold the line against [[Red Dragon Army]]
 
 ### Session Appearances
 
 - [[Session Notes - King Fisher Festival]]
 - [[Session Notes - The Red Dragon Army]]
+- [[Session Notes - Escape from Vogler]]

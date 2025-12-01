@@ -1,0 +1,21 @@
+- We are gathered at the Southern Port and I bring the box over 
+- The Weber family is missing
+- Weber family two parents and two kids
+- This guy that is accounting for all people is asking all of these annoying questions about party size to account for peoples escape routes
+- Silus leaves Vaubin to talk with him
+- Thalia goes to get rope and tie boats, Haive helps pack boats and Zagreaus helps calm children down
+- Me and Calenur go to the Weber home to get them to retreat
+- The Webers dad does not want to go so Calenur convinces them and it doesnt go so well but it works
+- Calenur gives his name but Silus doesnt
+- Me Thalia and Calenur is raiding the baccahrus family
+- I find 6 rings each engraved with the baccahrus family put within it
+- We go to the camp to talk with Becklin, they are just gonna go hold the line
+- Becklin and Kugel go to the front of the battlefield ot hold the line we stay back to help evacuate
+- The Red Dragon army are a bunch of dragon people and they swoop in attacking us as we try to defend against them to protect the people
+- A Dragon flies down and it is breathing fire coming from the Northern gate, but we realize its a fake dragon and that the dragon people are manning it
+- Derret is putting up a good fight against whatb seems to be the head dragon
+- We defeat the enemies in front of us, but the human section is just now marching in
+- The village managed to escape as we make it to the final boat
+- We hold the boat for a moment for Jaev, Becklins Lieutenant, to get on
+- Silus gives Derret the box, inside is a full suit of armor signifiying he is a knight of solomnia, order of the sword
+- Now headed to Kalamon

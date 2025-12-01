@@ -1,108 +1,98 @@
-**Type:** Event (Ongoing) **Date:** Session 2 **Location:** [[Vogler]] **Destination:** [[Kalaman]]
+**Type:** Event **Date:** Session 3 **Location:** [[Vogler]] **Destination:** [[Kalaman]] **Status:** SUCCESS (most civilians escaped)
 
-## What We Know
+### What We Know
 
 - Mass evacuation triggered by [[Red Dragon Army Ultimatum]]
-- Route: Southern river to [[Kalaman]]
-- River leads to backside of cliffs where scouts are positioned
-- Time-sensitive operation under threat of imminent attack
+- Route: Southern Port via river to [[Kalaman]]
+- Time-sensitive operation under threat of attack
+- **Most civilians successfully evacuated**
 
-## Evacuation Plan
+### Evacuation Plan
 
-### Route
+**Route:**
 
-- South through [[Vogler]]
+- South through [[Vogler]] to Southern Port
 - Via river system
-- To eastern city of [[Kalaman]]
-- Passes cliffs where scouts reported [[Red Dragon Army]]
+- To [[Kalaman]]
 
-### Key Objectives
+**Key Tasks:**
 
-1. Clear southern cliffside of any threats
-2. Escort refugees safely to boats
-3. Navigate river to [[Kalaman]]
-4. Protect civilians during journey
+1. Account for all civilians (bureaucrat at port)
+2. Tie boats together ([[Thalia]])
+3. Pack boats ([[Haive]])
+4. Calm children ([[Zagreus]])
+5. Retrieve missing families ([[Silus]] and [[Calendur]])
+6. Clear escape route
+7. Hold off [[Red Dragon Army]] attack
 
-## Party's Role
+### Missing Families
 
-- [[Silus]] told party to go South and clear the cliffside
-- [[Silus]] went alone to fetch [[Becklin's Mysterious Box]]
-- Party tasked with:
-    - Clearing escape route
-    - Protecting refugees
-    - Escorting civilians to [[Kalaman]]
+- **Weber family** - two parents, two kids
+    - Initially refused to leave
+    - [[Calendur]] convinced them
+    - Successfully evacuated
 
-## Who's Staying Behind
+### Party Actions
 
-- **[[Kudgel]]** - Cannot evacuate in time
-- **[[Becklin]]** - Cannot evacuate in time
-- Both expected to sacrifice themselves to buy time for evacuation
-- Likely small rear guard force
+- [[Silus]]: Retrieved box, got Webers, delivered armor to [[Derret]]
+- [[Thalia]]: Got rope, tied boats
+- [[Haive]]: Packed boats
+- [[Zagreus]]: Calmed children
+- [[Calendur]]: Convinced Webers to evacuate
+- [[Vaubin]]: Handled bureaucrat
 
-## Who's Evacuating
+### Additional Actions
+
+- Raided [[Baccahrus]] estate ([[Silus]], [[Thalia]], [[Calendur]])
+- Took 6 [[Baccahrus Family Rings]]
+
+### The Attack
+
+**[[Red Dragon Army]] Assault:**
+
+- [[Dragon People]] swooped in attacking
+- [[Fake Dragon]] from Northern gate breathing fire
+- [[Derret]] fought head dragon leader
+- Party defended civilians
+- Human troops marching in
+
+### Who Stayed Behind
+
+- [[Becklin]] - held front line (presumed dead)
+- [[Kudgel]] - held front line (presumed dead)
+
+### Who Escaped
 
 - Most of [[Vogler]]'s civilian population
-- Party members (all six)
-- [[Derret]] - receiving [[Becklin's Mysterious Box]]
-- Refugees and families
-- Unknown if [[Mayor Raven Uthvoughler]] is evacuating
+- All party members
+- [[Derret]] (now a knight)
+- [[Jaev]] ([[Becklin]]'s lieutenant)
+- Weber family
+- Refugees on boats
 
-## Critical Items Being Evacuated
+### Critical Moments
 
-- [[Becklin's Mysterious Box]] - entrusted to [[Derret]]
-    - Heavy, half [[Silus]]'s size
-    - Contains clanking metal
-    - Unknown contents but clearly important
+- Party defeated enemies in front of them
+- Village escaped as party reached final boat
+- Party held boat for [[Jaev]]
+- [[Silus]] gave [[Derret]] the knighthood armor
+- Boats departed for [[Kalaman]]
 
-## Challenges
+### Outcome
 
-- Time pressure - must evacuate before [[Red Dragon Army]] attacks
-- Southern cliffside needs clearing
-- Thousands of civilians to move
-- Limited boats on the river
-- Unknown threats along escape route
-- [[Kudgel]] and [[Becklin]] buying time with their lives
+- **SUCCESS** - most civilians saved
+- [[Vogler]] lost to [[Red Dragon Army]]
+- [[Becklin]] and [[Kudgel]] sacrificed themselves
+- [[Derret]] became a knight
+- Party and refugees heading to [[Kalaman]]
 
-## Current Status (End of Session 2)
+### Casualties
 
-- Evacuation in progress
-- [[Silus]] retrieving the box
-- Party heading to clear southern cliffside
-- Civilians being organized for departure
-- [[Kudgel]] and [[Becklin]] preparing final defense
+- [[Becklin]] (presumed)
+- [[Kudgel]] (presumed)
+- Some civilians who didn't make it
+- Unknown defenders
 
-## Expected Outcome
+### Session Appearances
 
-- Most civilians escape to [[Kalaman]]
-- [[Kudgel]] and [[Becklin]] likely killed holding the line
-- [[Vogler]] falls to [[Red Dragon Army]]
-- Party and refugees reach [[Kalaman]] safely (hopefully)
-
-## Unknown Factors
-
-- How much time before attack?
-- What resistance will [[Kudgel]] and [[Becklin]] mount?
-- Are there threats along the river route?
-- What's on the southern cliffside?
-- Will [[Mayor Raven Uthvoughler]] evacuate or stay?
-- How many civilians can actually escape in time?
-
-## Strategic Importance
-
-- Preserves [[Vogler]]'s population
-- Denies [[Red Dragon Army]] hostages/slaves
-- Gets refugees to safety in [[Kalaman]]
-- Saves [[Derret]] and [[Becklin's Mysterious Box]]
-- Party survives to continue fighting
-
-## Emotional Impact
-
-- Party losing allies [[Kudgel]] and [[Becklin]]
-- Civilians losing their homes
-- [[Zagreus]] losing uncle-figure ([[Becklin]])
-- [[Derret]] receiving his mentor's final gift
-- [[Vogler]] being abandoned to the enemy
-
-## Session Appearances
-
-- [[Session Notes - The Red Dragon Army]]
+- [[Session Notes - Escape from Vogler]]
