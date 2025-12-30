@@ -3,11 +3,14 @@ Appendix for Session Notes
 [[Session 1]]
 [[Session 2]]
 [[Session 3]]
+[[Session 4]]
+[[Session 5]]
 
 Appendix for Summaries
 [[Session Notes - King Fisher Festival]]
 [[Session Notes - The Red Dragon Army]]
 [[Session Notes - Escape from Vogler]]
+[[Session Notes - Arrival at Kalaman]]
 
 ---
 

@@ -1,0 +1,46 @@
+- We begin to see big towers as we arrive to kalaman, many survivors are already here making camp on the shore outside of the city.
+- There is 100 hundred refugee camps outside the city, all from different places
+- Haive helps old kender man with his sprained ankle stuff
+- When he heals the ankle, the old mans head snaps in the other direction and haive is transported into a dimension like spiritually maybe like his deity or something
+- Deity says that this kender predates the cataclysm, haive gets a blessing
+- The guards at the gate are turning away certain races
+- The guards have no specific insignia
+- The line into customs for the city is long and along the city walls outside are tattered merchant stalls there is also a priest that is preaching to everyone
+- Silus is going to go to the front of the line and just try to get in, the guard stops us and despite saying we are on business of the mages of high sorcery he doesnt know what that is and makes us get back in line
+- The guard supervisor is kind of being a hardass but the baccarus family entered ahead of time
+- He is going to let us in the represent Vogler
+- We are being given audience to fight for our case why Vogler should allow refuge
+- Sodin lets us in he is a little disinterested
+- We get let into Kalaman
+- Kadmos on the left forge Tyria on the right forge
+- Kadmos has a short door presumably dwarves
+- Tyria is sharper, less smoke and sounds of hot steel
+- I walk inside of the Tyria shop, the owner is a dwarf but a little better kempt
+- She has a Talisman from mages of high sorcery she opens a secret door in the back
+- She has a magic shop in the back
+- Another sweaty dwarf busts into the shop
+- We go to the castle to fight for the case of why vogler refugees should be housed in kallaman 
+- We want to leverage the information we know to have them let the people in
+- Baccarhus the young tries to block us entrance to the hall where his father is trying to speak for the people
+- As we round the corner I mage hand to unbuckle his pants in public
+- Governor Kaeloph Meit welcomes us into his 
+- Baccahrus is there, but we convience Miet that Baccahrus is not the representative and he gets sent out
+- They send us away while they do a councillor meeting to determine refuge
+- They allow them refuge and food within the walls
+- On the condition taht we share all the information we have about the red dragon army, every scout they have sent never came back
+- They want us to act as informants for them and we will get pay
+- We get a blue and gold symbol of kallaman 
+- Me and Haive and Vaubin and Derret accept the deal to become informants
+- We are given special housing
+- Haive saw Siluss interest in weapons and offered to train him
+- We see merchants outside wearing the same armor from zagreus and they scoff at him
+- Thalia and I head to Wyhans shop to deliver scroll from mages of high sorcery
+- She owns an apothecary shop
+- We hand over the scroll, she says its good we didnt open the scroll
+- She asks us questions like why do we do magic and what robe we are
+- We talk a bunch of about this we get to learn about magic
+- We have to go to Waereth
+- She says the mages arent new they are ancient
+- She is willing to sponsor me and Thalia because she sees our potential
+- On condition that we pledge
+- 

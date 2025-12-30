@@ -1,24 +1,61 @@
-**Type:** Settlement (City)
+**Type:** Settlement (Major City) **Leadership:** [[Governor Kaeloph Meit]]
 
 ### What We Know
 
-- City where [[Wyhan]] the black robed mage can be found
-- Party directed to go here after passing test at [[The Barb]]
-- **Evacuation destination** - [[Vogler]] refugees fleeing here via southern river route
-- East of [[Vogler]]
-- Presumably safer from [[Red Dragon Army]]
+- Major city with big towers visible from approach
+- Under refugee crisis - **100 camps outside walls**
+- Refugees from many different regions, not just [[Vogler]]
+- City walls with customs line
+- Tattered merchant stalls outside walls
+- Priest preaching to refugees in line
 
-### Inhabitants
+### Entry Restrictions
 
-- [[Wyhan]] (Black robed mage)
-- Will soon have refugees from [[Vogler]]
+- Guards **turning away certain races** (discrimination policy)
+- Guards have **no specific insignia** (suspicious authority)
+- Long customs process
+- [[Baccahrus]] family got priority entry (wealth/influence)
+- [[Mages of High Sorcery]] not recognized by gate guards
 
-### Strategic Importance
+### Notable Locations
 
-- Refuge for [[Vogler]] evacuees
-- Possibly next target of [[Red Dragon Army]]
+- [[Kadmos Forge]] - left side, dwarven (short door)
+- [[Tyria Forge]] - right side, sharper, less smoke
+- Castle/Governor's hall
+- Apothecary shop ([[Wyhan]]'s cover)
+- Special housing district (for informants)
+
+### Leadership & Government
+
+- [[Governor Kaeloph Meit]] - governor
+- Council of advisors (deliberated on refugee crisis)
+- [[Sodin]] - gate supervisor
+
+### Military Intelligence Problem
+
+- **Every scout sent to investigate [[Red Dragon Army]] never came back**
+- Desperate for information
+- Hired party as informants
+- Issued blue and gold symbols for identification
+
+### Current Crisis
+
+- 100 refugee camps outside walls
+- Refugees from multiple regions
+- [[Red Dragon Army]] threat
+- No intelligence on enemy movements
+- Discrimination at gates
+
+### Party Status in [[Kalaman]]
+
+- Official informants ([[Silus]], [[Haive]], [[Vaubin]], [[Derret]])
+- Special housing provided
+- Blue and gold symbols issued
+- [[Vogler]] refugees allowed entry (party's success)
 
 ### Session Appearances
 
-- [[Session Notes - King Fisher Festival]]
-- [[Session Notes - The Red Dragon Army]]
+- [[Session Notes - King Fisher Festival]] (mentioned as destination)
+- [[Session Notes - The Red Dragon Army]] (evacuation destination)
+- [[Session Notes - Escape from Vogler]] (evacuation destination)
+- [[Session Notes - Arrival at Kalaman]]
